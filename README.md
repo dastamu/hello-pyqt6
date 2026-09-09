@@ -10,7 +10,7 @@ pip install PyQt6
 
 ## Running
 ```
-python3 hello.py
+python3 hello-pyqt6.py
 ```
 
 ## License
