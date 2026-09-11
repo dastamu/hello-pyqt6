@@ -6,6 +6,8 @@ Hello World Application
 ## Dependences
 ```
 pip install PyQt6
+
+sudo apt install python3-pyqt6
 ```
 
 ## Running
