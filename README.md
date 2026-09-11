@@ -12,6 +12,10 @@ pip install PyQt6
 ```
 python3 hello-pyqt6.py
 ```
+## Tested
+- Windows 11
+- AlmaLinux 10 KDE Plasma 6
+- Mint 22
 
 ## License
 [License](LICENSE) MIT
