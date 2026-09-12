@@ -2,6 +2,7 @@
 Hello World Application
 
 ![Image 1](img/hello-pyqt6a.png) ![Image 2](img/hello-pyqt6b.png)
+![Image 1](img/hello-pyqt_mint22a.png) ![Image 2](img/hello-pyqt_mint22b.png)
 
 ## Dependences
 ```
