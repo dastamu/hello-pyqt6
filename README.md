@@ -6,9 +6,14 @@ Hello World Application
 
 ## Dependences
 ```
+sudo opt install python3 python3-pip
+sudo dnf install python3 python3-pip
 pip install PyQt6
 
-sudo apt install python3-pyqt6
+# or
+
+sudo apt install python3 python3-pyqt6
+sudo dnf install python3 python3-pyqt6
 ```
 
 ## Running
