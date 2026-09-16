@@ -14,6 +14,11 @@ pip install PyQt6
 
 sudo apt install python3 python3-pyqt6
 sudo dnf install python3 python3-pyqt6
+
+@ Arch
+sudo pacman -S python
+sudo pacman -S python-pipx
+pipx install pyqt6
 ```
 
 ## Running
