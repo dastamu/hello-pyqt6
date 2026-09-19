@@ -6,13 +6,16 @@ Hello World Application
 
 ## Dependences
 ```
+@ Debian
 sudo opt install python3 python3-pip
+pip install PyQt6
+
+sudo apt install python3 python3-pyqt6
+
+@ EL
 sudo dnf install python3 python3-pip
 pip install PyQt6
 
-# or
-
-sudo apt install python3 python3-pyqt6
 sudo dnf install python3 python3-pyqt6
 
 @ Arch
